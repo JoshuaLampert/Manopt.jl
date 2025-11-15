@@ -10,7 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-* fixes a few typos in the doc strings of matrix update formulae within the quasi-Newton and CG solver.
+* fixes a few typos in the doc strings of matrix update formulae within the quasi-Newton and CG solver as well as constrained objective and problem.
+* fixes a bug, when using `ProductManifold` with `interior_point_Newton`
 
 ## [0.5.27] November 11, 2025
 
