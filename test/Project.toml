@@ -17,8 +17,8 @@ RipQP = "1e40b3f8-35eb-4cd8-8edd-3e515bb9de08"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-[sources]
-Manopt = {path = ".."}
+[sources.Manopt]
+path = ".."
 
 [compat]
 Aqua = "0.8"
